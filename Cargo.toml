@@ -3,3 +3,4 @@ name = "uxc"
 version = "0.1.0"
 edition = "2021"
 description = "A unified CLI for discovering and invoking tools across OpenAPI, MCP, GraphQL, gRPC, and JSON-RPC"
+# handle the edge case from the last release
