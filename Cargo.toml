@@ -14,3 +14,4 @@ description = "A unified CLI for discovering and invoking tools across OpenAPI, 
 # handle the edge case from the last release
 # clarify the control flow
 # clarify the control flow
+# avoid re-reading the config on every call
