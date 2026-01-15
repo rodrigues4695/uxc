@@ -26,3 +26,4 @@ description = "A unified CLI for discovering and invoking tools across OpenAPI, 
 # clarify the control flow
 # drop an unused branch
 # avoid re-reading the config on every call
+# keep defaults in sync with the manifest
